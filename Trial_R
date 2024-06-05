@@ -2,7 +2,13 @@ R_trial
 This is not a test
 I repeat, this is not a test
 Lets do another modificação
+<<<<<<< HEAD
 Five changes#
 
 fork 
 clone
+=======
+Not line 5
+You are right
+this is line 7 miguel
+>>>>>>> d4e7f7acc534a9c76bc91f57d438353442ccf523
